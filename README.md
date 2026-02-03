@@ -1,16 +1,11 @@
-# flutter_test_app
+# Mood Diary App (Flutter)
 
-A new Flutter project.
+⚠️ Disclaimer
 
-## Getting Started
+This project was created exclusively as a test assignment.
+It is not intended for production use, long-term maintenance, or commercial distribution.
 
-This project is a starting point for a Flutter application.
+### About the Project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mood Diary App is a simple mobile application built with Flutter that allows users to track their emotional state on a daily basis.
+The app focuses on clean UI, intuitive UX, and a straightforward mood-logging flow.

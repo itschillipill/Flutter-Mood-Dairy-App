@@ -1,9 +1,8 @@
-// ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
 
 class TextAreaCard extends StatefulWidget {
-  const TextAreaCard({super.key, 
+  const TextAreaCard({
+    super.key,
     required this.textEditingController,
     required this.onChanged,
   });
